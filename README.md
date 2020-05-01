@@ -3,7 +3,7 @@ This Repository contains my solutions of May LeetCoding Challenge
 
 Please remember to solve the questions first (Don't Miss the Fun!) at:
 
-https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge
+https://leetcode.com/explore/featured/card/may-leetcoding-challenge/
 
 Check the well documented solutions (in C++) in this Repository.
 
