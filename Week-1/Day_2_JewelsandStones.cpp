@@ -1,6 +1,6 @@
 class Solution {
 public:
-    //use a hashmap to count the number of occurances of each stone and count the number of jewels.
+    //use a hashmap to store the number of occurances of each stone and use the hashmap to count the number of jewels.
     int numJewelsInStones(string J, string S) {
         unordered_map<char,int>mp;
         for(char ch:S)
